@@ -22,7 +22,7 @@ The second part of the training set is a 5000-dimensional vector y that contains
 
 ### Objectives
 
-This programming exercise was made for understand the step-by-step of the Neural Network Training. Its variables initialization, setting of parameters as weights by reducing the Cost Function and using the activation function and complementing it with the regularization. Finally, using the forward propagation and the backpropagation is possible create a Neural Network with a great performance in a task as the prediction of hand-written digits.
+This programming exercise was made for understand the step-by-step of the Neural Network Training. Its variables initialization, setting of parameters as weights by reducing the Cost Function and using the activation function and complementing it with the regularization. Finally, using the forward propagation and the backpropagation is possible create a Neural Network with a great performance in a task as the prediction of hand-written digits by a multi-class predictor.
 
 This is a good starting to understand what there is inside the libraries that we use in Python like TensorFlow where we can take advantages of the Nural Networks.
 
