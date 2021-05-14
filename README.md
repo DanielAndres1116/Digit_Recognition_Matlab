@@ -32,5 +32,4 @@ Putting together and in a strategically way all the basic concepts of a Neural N
 
 It would have been better separate the data between training set and testing set. This is a point to improve. But the training set accuracy was good and the rest of the program seems to have worked well. 
 
-
-
+##### PD: This exercise was made thanks to the course of Andrew NG in coursera about Machine Learning in Octave/MATLAB
